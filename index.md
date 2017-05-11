@@ -2,7 +2,7 @@
 
 nVotes is a project for open source, cryptographically secure voting. The following repositories are top-level components.
 
-#### libmix
+#### [libmix](https://github.com/nVotesOrg/libmix)
 
 A mixnet library built on top of [unicrypt](https://github.com/bfh-evg/univote2) and the [univote](https://github.com/bfh-evg/univote2) design. Provides
 
@@ -12,7 +12,7 @@ A mixnet library built on top of [unicrypt](https://github.com/bfh-evg/univote2)
 * Patches to the unicrypt library for optimisation (parallelism, native code)
 * A benchmark simulating the crypto for a full election cycle
 
-#### nMix
+#### [nMix](https://github.com/nVotesOrg/nMix)
 
 nMix is an open source backend for a mixnet-based, cryptographically secure voting system, featuring strong privacy and verifiability properties. It is a reactive implementation of the core [univote](https://e-voting.bfh.ch/projects/univote/) crypto specification, with a few changes.
 

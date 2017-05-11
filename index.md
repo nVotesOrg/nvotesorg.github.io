@@ -14,7 +14,7 @@ A mixnet library built on top of [unicrypt](https://github.com/bfh-evg/univote2)
 
 #### nMix
 
-nMix is an open source backend for a mixnet-based, cryptographically secure voting system, featuring strong privacy and verifiability properties. It is a reactive implementation of the core [univote](https://e-voting.bfh.ch/projects/univote/)crypto specification, with a few changes.
+nMix is an open source backend for a mixnet-based, cryptographically secure voting system, featuring strong privacy and verifiability properties. It is a reactive implementation of the core [univote](https://e-voting.bfh.ch/projects/univote/) crypto specification, with a few changes.
 
 The main elements of the cryptographic scheme are
 

@@ -1,3 +1,7 @@
+---
+title: "Scalastyle - Scala style checker"
+---
+
 ### Welcome to the nVotes project
 
 nVotes is a project for open source, cryptographically secure voting. The following repositories are top-level components.

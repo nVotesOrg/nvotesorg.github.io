@@ -1,4 +1,5 @@
 ---
+layout: main
 title: "nVotes - Cryptographically secure voting"
 ---
 

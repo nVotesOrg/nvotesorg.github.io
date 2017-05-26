@@ -1,5 +1,5 @@
 ---
-title: "Scalastyle - Scala style checker"
+title: "nVotes - Cryptographically secure voting"
 ---
 
 ### Welcome to the nVotes project
